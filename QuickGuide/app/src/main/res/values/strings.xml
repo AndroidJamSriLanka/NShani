@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickGuide</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_book">Book</string>
+    <string name="title_activity_setion">setion</string>
+    <string name="title_activity_section">section</string>
+    <string name="title_activity_book_list">bookList</string>
+    <string name="title_activity_cover">Cover</string>
+</resources>
