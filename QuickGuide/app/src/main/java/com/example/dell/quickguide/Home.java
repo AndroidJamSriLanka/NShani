@@ -23,7 +23,7 @@ public class Home extends ActionBarActivity {
     }
 
     public void bookClick(View view){
-        Intent intent=new Intent(Home.this,Book.class);
+        Intent intent=new Intent(Home.this,sectionPro.class);
         startActivity(intent);
     }
     public void articleClick(View view){

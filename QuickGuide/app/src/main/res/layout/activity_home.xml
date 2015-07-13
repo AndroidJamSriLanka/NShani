@@ -9,29 +9,32 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="WORDS"
+            android:text="PRONUNCIATION"
 
             android:id="@+id/books"
-            android:background="@drawable/word"
+
             android:onClick="bookClick"
             android:textSize="30dp"
-
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_alignRight="@+id/articles"
-            android:layout_alignEnd="@+id/articles" />
+            android:background="#ffe082"
+            android:height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="153dp" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="PRONOUNCIATION"
+            android:text="DEFINITION"
             android:id="@+id/articles"
+            android:height="100dp"
             android:onClick="articleClick"
-            android:background="@drawable/pronoun"
+            android:background="#ffe082"
             android:textSize="30dp"
-            android:layout_centerVertical="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
+            android:layout_above="@+id/books"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="56dp" />
 
 
 

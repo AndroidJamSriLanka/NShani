@@ -13,6 +13,8 @@ public class Cover extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cover);
+        this.startActivity(getIntent());
+        next();
 
     }
 
@@ -23,7 +25,7 @@ public class Cover extends ActionBarActivity {
 
                 try {
 
-                    sleep(100);
+                    sleep(2000);
 
                     Intent i = new Intent("com.example.dell.HOME");
 

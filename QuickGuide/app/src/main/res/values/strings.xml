@@ -8,4 +8,10 @@
     <string name="title_activity_section">section</string>
     <string name="title_activity_book_list">bookList</string>
     <string name="title_activity_cover">Cover</string>
+    <string name="title_activity_word_list">WordList</string>
+    <string name="title_activity_definition">definition</string>
+    <string name="title_activity_home1">Home1</string>
+    <string name="title_activity_pronun_list">pronunList</string>
+    <string name="title_activity_section_pro">sectionPro</string>
+    <string name="title_activity_pronounciation">pronounciation</string>
 </resources>
