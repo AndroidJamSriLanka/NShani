@@ -8,18 +8,22 @@ Solution: So I came up with a solution to this. It is the Quick Definition. This
 API : API pearson.com/apis/dictionaries  Link : http://developer.pearson.com/apis/dictionaries#!//listEntries
 
 
-
-What I you currently implemented : UI design and data handling for "search definition for a word"
-
-
 Screenshots
 
 Link : https://github.com/AndroidJamSriLanka/SmartClassRoom/tree/master/GUI
 
-Cover : https://github.com/AndroidJamSriLanka/SmartClassRoom/blob/master/GUI/device-2015-04-26-102441.png 
-Home : https://github.com/AndroidJamSriLanka/SmartClassRoom/blob/master/GUI/device-2015-04-26-103803.png
-Definition : https://github.com/AndroidJamSriLanka/SmartClassRoom/blob/master/GUI/device-2015-04-26-103856.png
-Search for Word : https://github.com/AndroidJamSriLanka/SmartClassRoom/blob/master/GUI/device-2015-04-26-103945.png
 
+Cover : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/Cover.png
 
+Home : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/Home.png
+
+Search : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/word.png
+
+Definition/Pronunciation : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/Search.png
+
+Word List: https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/WordList.png
+
+Icon : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/icon.png
+
+Poster : https://github.com/AndroidJamSriLanka/QuickDefinition/blob/master/GUI/poster.jpg
 
